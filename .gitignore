@@ -1,0 +1,12 @@
+*.pyc
+*.fits
+*.fit
+*.swp
+.DS_Store
+*.tar
+*.gz
+*.bz2
+**.png
+*.txt
+*.res
+*.reg
